@@ -11,7 +11,7 @@
 
 ![pic2](img/pic2.jpg)
 
-If there are identical direction values, the priority of the three directions is D2>D1>D3. For instance, Di=20, D2=30, D3=20, then min(D1, D2, D3) = D1. The left and right boundary interpolation is fixed to (b+e)/2.
+- If there are identical direction values, the priority of the three directions is D2>D1>D3. For instance, Di=20, D2=30, D3=20, then min(D1, D2, D3) = D1. The left and right boundary interpolation is fixed to (b+e)/2.
 
 ## AUTHORS
 [Yu-Tong Shen](https://github.com/yutongshen/)
